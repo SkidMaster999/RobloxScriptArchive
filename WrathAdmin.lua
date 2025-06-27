@@ -1,3 +1,4 @@
+--https://github.com/Sploiter13/Wrath-Admin-Prison-Life-Script/blob/main/Wrath%20Admin.txt
 local ExecutionTime = tick();
 
 ------- MAIN SCRIPT -------

@@ -1,2 +1,2 @@
 # RobloxScriptArchive
-Archive for old scripts
+Archive for old or deleted scripts

@@ -5255,4 +5255,4 @@ do
 end
 
 task.spawn(LoaderUpdate)
-Note("Press Right Control to open")i)c
+Note("Press Right Control to open")
